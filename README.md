@@ -8,7 +8,7 @@
 <a href="https://stackoverflow.com/users/YOUR_ID/aswinac" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="30" height="30"/></a>
 <a href="https://www.hackerrank.com/aswinac090" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" height="30"/></a>
 <a href="https://leetcode.com/dowmiia5to" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/></a>
-<a href="https://wa.me/9074415090" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" height="30"/></a>
+<a href="https://wa.me/8111891198" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="30" height="30"/></a>
 </p>
 </div>
 
@@ -51,15 +51,15 @@
 <br>
 
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=aswin3417&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=ABHINAVRAJ002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswin3417&theme=react-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHINAVRAJ002&theme=react-dark" width="100%" alt="Contribution Graph" />
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswin3417" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHINAVRAJ002" width="100%" alt="GitHub Trophies"/>
 </p>
